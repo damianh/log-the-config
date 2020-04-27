@@ -1,6 +1,6 @@
 # Logging Configuration Values
 
-**Motivation**: I wanted to...
+**Motivation**: Using `Microsoft.Extensions.Configuration` I wanted to...
 
 - ... log all of the configuration data at service startup.
 - ... to see which configuration setting was in multiple provider(s), and from
